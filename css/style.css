@@ -1,0 +1,13 @@
+.carousel-caption{
+    padding-bottom: 180px !important;
+}
+.carousel-inner .carousel-item img{
+    filter: brightness(50%);
+}
+.discover_header{
+    width: 40%;
+    text-align: center;
+}
+/* .card_area{
+    width: 100%;
+} */

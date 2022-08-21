@@ -8,6 +8,13 @@
     width: 40%;
     text-align: center;
 }
-/* .card_area{
-    width: 100%;
-} */
+@media only screen and (max-width: 1200px) {
+    .institute-image{
+        height: 100%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .institute-image{
+        width: 100%;
+    }
+}

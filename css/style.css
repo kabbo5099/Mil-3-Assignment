@@ -1,23 +1,39 @@
+/* navbar theke slider margin */
 .navbar-space{
     margin-top: 100px !important;
 }
+
+/* Slider caption center  */
 .carousel-caption{
     padding-bottom: 180px !important;
 }
+
+/* Slider images brightness low */
 .carousel-inner .carousel-item img{
     filter: brightness(50%);
 }
+
+/* Discover our populer course er p tag center */
 .discover_header{
     width: 40%;
     text-align: center;
 }
+
+/* responsive Elearning institute image for learge */
 @media only screen and (max-width: 1200px) {
     .institute-image{
         height: 100%;
     }
 }
+/* responsive Elearning institute image for medium */
 @media only screen and (max-width: 1000px) {
     .institute-image{
         width: 100%;
     }
+}
+
+/* some student feedback p tag center */
+.feedback_header{
+    text-align: center;
+
 }

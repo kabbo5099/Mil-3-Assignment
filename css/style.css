@@ -13,12 +13,6 @@
     filter: brightness(50%);
 }
 
-/* Discover our populer course er p tag center */
-.discover_header{
-    width: 40%;
-    text-align: center;
-}
-
 /* responsive Elearning institute image for learge */
 @media only screen and (max-width: 1200px) {
     .institute-image{
